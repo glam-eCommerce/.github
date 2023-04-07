@@ -19,7 +19,7 @@ The project team has achieved cloud deployment with scale and the following AWS 
 - Mukmin Pitoyo (Web Application Developer, Cloud Architect, DevOps)
 - Tanya Elizabeth (Cloud Architect)
 - Jeral Ong (Cloud Analyst and Tester)
-- Carlo (Cloud Operations & Monitoring)
+- Carlo Patti (Cloud Operations & Monitoring)
 
 # Repositories
 - Glam shop client (https://github.com/glam-eCommerce/glam-shop-client)
