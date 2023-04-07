@@ -15,7 +15,7 @@ The project team has achieved cloud deployment with scale and the following AWS 
 - Locust (stress testing)
 - AWS CloudWatch and Datadog (Monitoring)
 
-# The project team:
+# The Project Team
 - Faisal Samudra (Web Application Developer, Cloud Architect, DevOps)
 - Mukmin Pitoyo (Web Application Developer, Cloud Architect, DevOps)
 - Tanya Elizabeth (Cloud Architect)
@@ -25,6 +25,6 @@ The project team has achieved cloud deployment with scale and the following AWS 
 # Repositories
 - Glam shop client (https://github.com/glam-eCommerce/glam-shop-client)
 - Glam shop server (https://github.com/glam-eCommerce/glam-shop-server)
-- Glam Shop Cloud deployment & teraform (private)
+- Glam shop cloud deployment & teraform (private)
 
 The ecommerce website is deployed on www.glamecommerce.store
