@@ -16,12 +16,10 @@ The project team has achieved cloud deployment with scale and the following AWS 
 - Locust (stress testing)
 - AWS CloudWatch and Datadog (Monitoring)
 
-<<<<<<< Updated upstream
 # The Project Team
-=======
+
 # The project team:
 
->>>>>>> Stashed changes
 - Faisal Samudra (Web Application Developer, Cloud Architect, DevOps)
 - Mukmin Pitoyo (Web Application Developer, Cloud Architect, DevOps)
 - Tanya Elizabeth (Cloud Architect)
