@@ -18,8 +18,6 @@ The project team has achieved cloud deployment with scale and the following AWS 
 
 # The Project Team
 
-# The project team:
-
 - Faisal Samudra (Web Application Developer, Cloud Architect, DevOps)
 - Mukmin Pitoyo (Web Application Developer, Cloud Architect, DevOps)
 - Tanya Elizabeth (Cloud Architect)
