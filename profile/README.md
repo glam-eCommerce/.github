@@ -31,4 +31,7 @@ The project team has achieved cloud deployment with scale and the following AWS 
 - Glam shop server (https://github.com/glam-eCommerce/glam-shop-server)
 - Glam shop cloud deployment & teraform (private)
 
+# Architecture Diagram
+![G2T3 CME Cloud Architecture](https://github.com/glam-eCommerce/.github/assets/39894980/217ad251-8a2f-4338-959a-847b466c4fb1)
+
 The ecommerce website is deployed on www.glamecommerce.store
